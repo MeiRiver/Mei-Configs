@@ -14,7 +14,7 @@
 # [Keybinds]
 - I was able to add some additional controls directly in the game options menu! They are all disabled by default, to use them just go to the controls menu and choose your favorite keys.
 - [Sprint (Inverted)] Reverse the Sprint key to make you run endlessly, hold it down to walk. Goodbye pinky pain! Note: When you join a district press the Sprint key once to start Sprinting.
-- [Crouch (Hold)] Makes the Crouch key to be held down, making movements faster and easier! Note: If you press Crouch and Jump at the same time you will get stuck in the Crouch positon, press Jump again to stand up.
+- [Crouch (Hold)] Makes the Crouch key to be held down, making movements faster and easier! Note: If you press Crouch and Jump at the same time you will get stuck in the Crouch position, press Jump again to stand up.
 - [Grenade (Toggle)] Press the Grenade key once to start cooking it then press the Fire key to throw! Note: I suggest to use it only for Grenades, while for Half-Bricks and Eight-Balls use the Grenade (Hold) key.
 
 # [Additional Notes]
