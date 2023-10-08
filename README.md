@@ -24,8 +24,9 @@
 - `Lean (Hold)` Hold down the key while aiming. It's difficult to move around.
 - `Scoreboard (Hold)` Hold to display the Scoreboard. Can be used to quickly close the inventory menu while changing weapons.
 - `Map (Hold)` Hold to show the Map. Similar use to Scoreboard.
-- `Music Player` Right-Shift to Open the Music Player, Right-CTRL to Play/Pause, Arrow keys to change Tracks and adjust the Volume.
 - `Abandon Mission` Use to quickly abandon the mission.
+- `Music Player` Right-Shift to Open the Music Player, Right-CTRL to Play/Pause, Arrow keys to change Tracks and adjust the Volume.
+- `Social` Open customization kiosks in Social. They are Character Customisation, Clothing Customisation, Vehicle Customisation, Symbol Editor, Music Studio.
 - `Alt+F4` Ragequit **:p**
 
 # Settings
@@ -64,7 +65,7 @@
 ### [APBGame\Localization\GER]
 - APBUserInterface.GER - UI Messages
 - ConsoleCommands.GER - Replaces /abandonmission with /a
-- EmoteCommands.GER - Removes /dance prefix from any dance emote
+- EmoteCommands.GER - Removes /dance and /strikea prefix from emotes
 - HUDDistrictMapMarker.GER - Vehicle Name [• w •]
 - HUDMessages.GER - HUD Messages and Killfeed
 - Options.GER - Options Menu Description
